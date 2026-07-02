@@ -1,3 +1,4 @@
+
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=EdgeMLHacker&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20%7C%20Agent%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" alt="header"/>
