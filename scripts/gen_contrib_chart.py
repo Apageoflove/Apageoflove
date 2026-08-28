@@ -61,13 +61,13 @@ def main():
     grid = []
     for i in range(1, 5):
         gy = PAD_T + chart_h - (chart_h / 4 * i)
-        grid.append(f'<line x1="{PAD_L}" y1="{gy:.1f}" x2="{W - PAD_R}" y2="{gy:.1f}" stroke="#21262D" stroke-width="0.5" stroke-dasharray="3,3"/>')
+        grid.append(f'<line x1="{PAD_L}" y1="{gy:.1f}" x2="{W - PAD_R}" y2="{gy:.1f}" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/>')
 
     # Bars with gradient + rounded top
     defs = f'''<defs>
     <linearGradient id="barGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#79C0FF"/>
-      <stop offset="100%" stop-color="#1F6FEB"/>
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#0969DA"/>
     </linearGradient>
     <linearGradient id="barGradIdle" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#21262D"/>
@@ -85,16 +85,16 @@ def main():
             if count >= max_c * 0.5:
                 bars.append(f'<text x="{x + bar_w/2:.1f}" y="{y - 6:.1f}" text-anchor="middle" fill="#79C0FF" font-size="9.5" font-weight="500" font-family="ui-monospace,monospace">{count}</text>')
         else:
-            bars.append(f'<rect x="{x:.1f}" y="{PAD_T + chart_h - 2:.1f}" width="{bar_w:.1f}" height="2" rx="1" fill="#21262D"/>')
+            bars.append(f'<rect x="{x:.1f}" y="{PAD_T + chart_h - 2:.1f}" width="{bar_w:.1f}" height="2" rx="1" fill="#D0D7DE"/>')
         if i % 5 == 0:
             label = date[5:]
-            bars.append(f'<text x="{x + bar_w/2:.1f}" y="{H - 12}" text-anchor="middle" fill="#8B949E" font-size="9" font-family="ui-monospace,monospace">{label}</text>')
+            bars.append(f'<text x="{x + bar_w/2:.1f}" y="{H - 12}" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">{label}</text>')
 
     # Summary pills
     def pill(x, y, w, label, value):
-        return (f'<rect x="{x}" y="{y}" width="{w}" height="28" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>'
-                f'<text x="{x + 10}" y="{y + 18}" fill="#8B949E" font-size="10" font-family="-apple-system,sans-serif">{esc(label)}</text>'
-                f'<text x="{x + w - 10}" y="{y + 18}" text-anchor="end" fill="#C9D1D9" font-size="11" font-weight="600" font-family="ui-monospace,monospace">{esc(value)}</text>')
+        return (f'<rect x="{x}" y="{y}" width="{w}" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/>'
+                f'<text x="{x + 10}" y="{y + 18}" fill="#57606A" font-size="10" font-family="-apple-system,sans-serif">{esc(label)}</text>'
+                f'<text x="{x + w - 10}" y="{y + 18}" text-anchor="end" fill="#24292F" font-size="11" font-weight="600" font-family="ui-monospace,monospace">{esc(value)}</text>')
 
     pill_w = 120
     pill_gap = 12
@@ -106,11 +106,11 @@ def main():
 
     svg_parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">',
-        f'<rect width="{W}" height="{H}" fill="#0D1117" rx="8"/>',
+        f'<rect width="{W}" height="{H}" fill="#FFFFFF" rx="8"/>',
         f'<defs>{defs}</defs>',
         "".join(grid),
-        f'<text x="{PAD_L}" y="{PAD_T - 12}" fill="#C9D1D9" font-size="13" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Contributions</text>',
-        f'<text x="{W - PAD_R}" y="{PAD_T - 12}" text-anchor="end" fill="#8B949E" font-size="10" font-family="-apple-system,sans-serif">{frm.strftime("%b %d")} - {to.strftime("%b %d, %Y")}</text>',
+        f'<text x="{PAD_L}" y="{PAD_T - 12}" fill="#24292F" font-size="13" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Contributions</text>',
+        f'<text x="{W - PAD_R}" y="{PAD_T - 12}" text-anchor="end" fill="#57606A" font-size="10" font-family="-apple-system,sans-serif">{frm.strftime("%b %d")} - {to.strftime("%b %d, %Y")}</text>',
         p1, p2, p3, p4,
         f'<line x1="{PAD_L}" y1="{PAD_T + chart_h}" x2="{W - PAD_R}" y2="{PAD_T + chart_h}" stroke="#30363D" stroke-width="1"/>',
         "\n".join(bars),
