@@ -1,4 +1,4 @@
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apageoflove&bg_color=0D1117&color=8B949E&line=58A6FF&point=58A6FF&area_color=161B22&area=true&hide_border=true&theme=github-dark&custom_title=Contribution+Activity" width="100%" alt="contribution activity" />
+<img src="./assets/contrib_chart.svg" width="100%" alt="contribution activity" />
 
 <div align="center">
 
