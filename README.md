@@ -1,39 +1,47 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7C9EFF,100:1a1f35&height=180&section=header&text=Apageoflove&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Multimodal AI · Agents · RAG&descAlignY=55&descSize=16" alt="header" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=7C9EFF&center=true&vCenter=true&multiline=true&width=680&height=100&lines=Multimodal+AI+%C2%B7+VLM+fine-tuning+%C2%B7+Agents+%C2%B7+RAG;Python+%C2%B7+PyTorch+%C2%B7+Go+%C2%B7+TypeScript" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=7C9EFF&center=true&vCenter=true&multiline=true&width=580&height=80&lines=Fine-tuning+language+models+to+do+useful+things;Building+agents+that+remember+and+reason;Measuring+what+matters+in+LLM+outputs" alt="typing" />
+
+<br>
+
+`Python` · `PyTorch` · `QLoRA` · `TypeScript` · `Go` · `Rust` · `Docker`
 
 </div>
 
 ---
 
-### What I work on
-
-Building and evaluating LLM systems — from fine-tuning to agent orchestration to quality assessment.
-
-- **VLM-Driving-Scene-Understanding** — Qwen2.5-VL-3B + QLoRA, structured scene understanding for autonomous driving
-- **DSH-changeproof** — DeepSeek Harness plugin that proves changed lines are actually covered by tests
-- **auto-reply-quality-eval** — LLM-as-a-Judge pipeline scoring customer-service replies against human annotations
-- **ThinkGraph** — parses `<think>` blocks from reasoning models into directed graphs with quality scores
-- **mcp-rag-agent** — MCP protocol + GraphRAG + Cross-Encoder reranking in a multi-agent pipeline
-
-### Toolbox
-
-Python / PyTorch / QLoRA / LangChain / MCP / TypeScript / Go / Rust / SQLite / Docker
-
----
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apageoflove&theme=tokyonight" width="100%" alt="profile" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Apageoflove&theme=tokyonight" width="100%" alt="stats" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apageoflove&theme=tokyonight" width="100%" alt="langs" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apageoflove&theme=tokyonight" width="100%" alt="commits" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Apageoflove&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C9EFF&icon_color=7C9EFF" alt="stats" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apageoflove&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C9EFF&langs_count=6" alt="langs" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apageoflove&bg_color=0D1117&color=7C9EFF&line=7C9EFF&point=FFFFFF&area_color=1a1f35&area=true&hide_border=true&theme=tokyo-night&custom_title=Contribution+Activity" width="92%" alt="activity" />
 
-<img src="https://streak-stats.demolab.com/?user=Apageoflove&theme=tokyonight&hide_border=true&background=0D1117&ring=7C9EFF&fire=7C9EFF&currStreakLabel=7C9EFF" alt="streak" />
+<br>
 
-<img src="https://raw.githubusercontent.com/Apageoflove/Apageoflove/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://streak-stats.demolab.com/?user=Apageoflove&theme=tokyonight&hide_border=true&background=0D1117&ring=7C9EFF&fire=7C9EFF&currStreakLabel=7C9EFF" width="55%" alt="streak" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1f35,100:7C9EFF&height=100&section=footer" alt="footer" />
 
 <div align="center">
 
