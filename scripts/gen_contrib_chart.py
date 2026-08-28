@@ -70,8 +70,8 @@ def main():
       <stop offset="100%" stop-color="#0969DA"/>
     </linearGradient>
     <linearGradient id="barGradIdle" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#21262D"/>
-      <stop offset="100%" stop-color="#161B22"/>
+      <stop offset="0%" stop-color="#E1E4E8"/>
+      <stop offset="100%" stop-color="#D0D7DE"/>
     </linearGradient>
   </defs>'''
 
