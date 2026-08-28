@@ -22,6 +22,5 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zh13246570@gmail.com)
-[![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/le-feng-w-en-2)
 
 </div>
