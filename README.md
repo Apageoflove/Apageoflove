@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=7C9EFF&center=true&vCenter=true&multiline=true&width=680&height=100&lines=Making+AI+systems+measurable;Fine-tuning+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Evaluation" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=7C9EFF&center=true&vCenter=true&multiline=true&width=680&height=100&lines=Multimodal+AI+%C2%B7+VLM+fine-tuning+%C2%B7+Agents+%C2%B7+RAG;Python+%C2%B7+PyTorch+%C2%B7+Go+%C2%B7+TypeScript" alt="typing" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### What I work on
 
-Most AI demos look great until you ask "how do you know it works?" — that gap is what I build for.
+Building and evaluating LLM systems — from fine-tuning to agent orchestration to quality assessment.
 
 - **VLM-Driving-Scene-Understanding** — Qwen2.5-VL-3B + QLoRA, structured scene understanding for autonomous driving
 - **DSH-changeproof** — DeepSeek Harness plugin that proves changed lines are actually covered by tests
