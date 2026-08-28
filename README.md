@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7C9EFF,100:0D1117&height=120&section=header&text=Apageoflove&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Multimodal AI · Agents · RAG&descAlignY=52&descSize=15" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,40:161B22,60:1B2635,100:0D1117&height=90&section=header&text=Apageoflove&fontSize=30&fontColor=58A6FF&animation=twinkling&fontAlignY=45&desc=Multimodal AI · Agents · RAG&descAlignY=68&descSize=13" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1500&color=7C9EFF&center=true&vCenter=true&width=500&height=40&lines=Fine-tuning+language+models;Building+agents+that+reason;Measuring+what+matters" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=-apple-system,BlinkMacSystemFont&size=14&duration=3000&pause=1800&color=8B949E&center=true&vCenter=true&width=460&height=32&lines=Fine-tuning+language+models;Building+agents+that+reason;Measuring+what+matters" alt="typing" />
 
 <br>
 
@@ -13,10 +13,10 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apageoflove&theme=tokyonight" width="100%" alt="langs" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apageoflove&theme=github_dark" width="100%" alt="langs" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apageoflove&theme=tokyonight" width="100%" alt="commits" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apageoflove&theme=github_dark" width="100%" alt="commits" />
     </td>
   </tr>
 </table>
