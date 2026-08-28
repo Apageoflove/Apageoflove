@@ -13,10 +13,10 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apageoflove&theme=github_dark" width="100%" alt="langs" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apageoflove&theme=default" width="100%" alt="langs" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apageoflove&theme=github_dark" width="100%" alt="commits" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apageoflove&theme=default" width="100%" alt="commits" />
     </td>
   </tr>
 </table>
