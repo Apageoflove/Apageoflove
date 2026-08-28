@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,40:161B22,60:1B2635,100:0D1117&height=90&section=header&text=Apageoflove&fontSize=30&fontColor=58A6FF&animation=twinkling&fontAlignY=45&desc=Multimodal AI · Agents · RAG&descAlignY=68&descSize=13" />
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3d contribution" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=-apple-system,BlinkMacSystemFont&size=14&duration=3000&pause=1800&color=8B949E&center=true&vCenter=true&width=460&height=32&lines=Fine-tuning+language+models;Building+agents+that+reason;Measuring+what+matters" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=460&height=35&lines=Fine-tuning+language+models;Building+agents+that+reason;Measuring+what+matters" alt="typing" />
 
 <br>
 
