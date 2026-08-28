@@ -1,56 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="240" viewBox="0 0 820 240">
-<rect width="820" height="240" fill="#0D1117" rx="8"/>
+<rect width="820" height="240" fill="#FFFFFF" rx="8"/>
 <defs><defs>
     <linearGradient id="barGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#79C0FF"/>
-      <stop offset="100%" stop-color="#1F6FEB"/>
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#0969DA"/>
     </linearGradient>
     <linearGradient id="barGradIdle" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#21262D"/>
       <stop offset="100%" stop-color="#161B22"/>
     </linearGradient>
   </defs></defs>
-<line x1="36" y1="170.5" x2="792" y2="170.5" stroke="#21262D" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="139.0" x2="792" y2="139.0" stroke="#21262D" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="107.5" x2="792" y2="107.5" stroke="#21262D" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="76.0" x2="792" y2="76.0" stroke="#21262D" stroke-width="0.5" stroke-dasharray="3,3"/>
-<text x="36" y="64" fill="#C9D1D9" font-size="13" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Contributions</text>
-<text x="792" y="64" text-anchor="end" fill="#8B949E" font-size="10" font-family="-apple-system,sans-serif">Jul 29 - Aug 28, 2026</text>
-<rect x="36" y="14" width="120" height="28" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="46" y="32" fill="#8B949E" font-size="10" font-family="-apple-system,sans-serif">Total</text><text x="146" y="32" text-anchor="end" fill="#C9D1D9" font-size="11" font-weight="600" font-family="ui-monospace,monospace">149</text>
-<rect x="168" y="14" width="120" height="28" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="178" y="32" fill="#8B949E" font-size="10" font-family="-apple-system,sans-serif">Daily avg</text><text x="278" y="32" text-anchor="end" fill="#C9D1D9" font-size="11" font-weight="600" font-family="ui-monospace,monospace">5.0</text>
-<rect x="300" y="14" width="120" height="28" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="310" y="32" fill="#8B949E" font-size="10" font-family="-apple-system,sans-serif">Best day</text><text x="410" y="32" text-anchor="end" fill="#C9D1D9" font-size="11" font-weight="600" font-family="ui-monospace,monospace">54</text>
-<rect x="432" y="14" width="120" height="28" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/><text x="442" y="32" fill="#8B949E" font-size="10" font-family="-apple-system,sans-serif">Active days</text><text x="542" y="32" text-anchor="end" fill="#C9D1D9" font-size="11" font-weight="600" font-family="ui-monospace,monospace">15/30</text>
+<line x1="36" y1="170.5" x2="792" y2="170.5" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="139.0" x2="792" y2="139.0" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="107.5" x2="792" y2="107.5" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="76.0" x2="792" y2="76.0" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/>
+<text x="36" y="64" fill="#24292F" font-size="13" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Contributions</text>
+<text x="792" y="64" text-anchor="end" fill="#57606A" font-size="10" font-family="-apple-system,sans-serif">Jul 29 - Aug 28, 2026</text>
+<rect x="36" y="14" width="120" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="46" y="32" fill="#57606A" font-size="10" font-family="-apple-system,sans-serif">Total</text><text x="146" y="32" text-anchor="end" fill="#24292F" font-size="11" font-weight="600" font-family="ui-monospace,monospace">149</text>
+<rect x="168" y="14" width="120" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="178" y="32" fill="#57606A" font-size="10" font-family="-apple-system,sans-serif">Daily avg</text><text x="278" y="32" text-anchor="end" fill="#24292F" font-size="11" font-weight="600" font-family="ui-monospace,monospace">5.0</text>
+<rect x="300" y="14" width="120" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="310" y="32" fill="#57606A" font-size="10" font-family="-apple-system,sans-serif">Best day</text><text x="410" y="32" text-anchor="end" fill="#24292F" font-size="11" font-weight="600" font-family="ui-monospace,monospace">54</text>
+<rect x="432" y="14" width="120" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="442" y="32" fill="#57606A" font-size="10" font-family="-apple-system,sans-serif">Active days</text><text x="542" y="32" text-anchor="end" fill="#24292F" font-size="11" font-weight="600" font-family="ui-monospace,monospace">15/30</text>
 <line x1="36" y1="202" x2="792" y2="202" stroke="#30363D" stroke-width="1"/>
-<rect x="40.8" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
-<text x="48.6" y="228" text-anchor="middle" fill="#8B949E" font-size="9" font-family="ui-monospace,monospace">07-30</text>
-<rect x="66.0" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
-<rect x="91.2" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
-<rect x="116.4" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
-<rect x="141.6" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
-<rect x="166.8" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
-<text x="174.6" y="228" text-anchor="middle" fill="#8B949E" font-size="9" font-family="ui-monospace,monospace">08-04</text>
-<rect x="192.0" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
-<rect x="217.2" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
-<rect x="242.4" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
-<rect x="267.6" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
+<rect x="40.8" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
+<text x="48.6" y="228" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">07-30</text>
+<rect x="66.0" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
+<rect x="91.2" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
+<rect x="116.4" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
+<rect x="141.6" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
+<rect x="166.8" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
+<text x="174.6" y="228" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-04</text>
+<rect x="192.0" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
+<rect x="217.2" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
+<rect x="242.4" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
+<rect x="267.6" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
 <rect x="292.8" y="76.0" width="15.6" height="126.0" rx="3" fill="url(#barGrad)"/>
 <text x="300.6" y="70.0" text-anchor="middle" fill="#79C0FF" font-size="9.5" font-weight="500" font-family="ui-monospace,monospace">54</text>
-<text x="300.6" y="228" text-anchor="middle" fill="#8B949E" font-size="9" font-family="ui-monospace,monospace">08-09</text>
-<rect x="318.0" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
-<rect x="343.2" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
-<rect x="368.4" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
+<text x="300.6" y="228" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-09</text>
+<rect x="318.0" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
+<rect x="343.2" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
+<rect x="368.4" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
 <rect x="393.6" y="185.7" width="15.6" height="16.3" rx="3" fill="url(#barGrad)"/>
 <rect x="418.8" y="190.3" width="15.6" height="11.7" rx="3" fill="url(#barGrad)"/>
-<text x="426.6" y="228" text-anchor="middle" fill="#8B949E" font-size="9" font-family="ui-monospace,monospace">08-14</text>
+<text x="426.6" y="228" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-14</text>
 <rect x="444.0" y="157.7" width="15.6" height="44.3" rx="3" fill="url(#barGrad)"/>
 <rect x="469.2" y="174.0" width="15.6" height="28.0" rx="3" fill="url(#barGrad)"/>
 <rect x="494.4" y="192.7" width="15.6" height="9.3" rx="3" fill="url(#barGrad)"/>
-<rect x="519.6" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
+<rect x="519.6" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
 <rect x="544.8" y="185.7" width="15.6" height="16.3" rx="3" fill="url(#barGrad)"/>
-<text x="552.6" y="228" text-anchor="middle" fill="#8B949E" font-size="9" font-family="ui-monospace,monospace">08-19</text>
+<text x="552.6" y="228" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-19</text>
 <rect x="570.0" y="198.0" width="15.6" height="4.0" rx="3" fill="url(#barGrad)"/>
 <rect x="595.2" y="176.3" width="15.6" height="25.7" rx="3" fill="url(#barGrad)"/>
 <rect x="620.4" y="183.3" width="15.6" height="18.7" rx="3" fill="url(#barGrad)"/>
-<rect x="645.6" y="200.0" width="15.6" height="2" rx="1" fill="#21262D"/>
+<rect x="645.6" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
 <rect x="670.8" y="198.0" width="15.6" height="4.0" rx="3" fill="url(#barGrad)"/>
-<text x="678.6" y="228" text-anchor="middle" fill="#8B949E" font-size="9" font-family="ui-monospace,monospace">08-24</text>
+<text x="678.6" y="228" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-24</text>
 <rect x="696.0" y="198.0" width="15.6" height="4.0" rx="3" fill="url(#barGrad)"/>
 <rect x="721.2" y="198.0" width="15.6" height="4.0" rx="3" fill="url(#barGrad)"/>
 <rect x="746.4" y="195.0" width="15.6" height="7.0" rx="3" fill="url(#barGrad)"/>
