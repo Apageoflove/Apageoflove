@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=480&height=36&lines=Multimodal+AI+%C2%B7+VLM+fine-tuning+%C2%B7+Agents+%C2%B7+RAG;Python+%C2%B7+PyTorch+%C2%B7+TypeScript+%C2%B7+Go" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&height=36&lines=Python%20%C2%B7%20PyTorch%20%C2%B7%20C%2B%2B%20%C2%B7%20VLM%20%C2%B7%20Agent%20%C2%B7%20RAG%3BMultimodal%20AI%20%C2%B7%20Agent%20systems%20%C2%B7%20RAG%20pipelines%3BTypeScript%20%C2%B7%20LLM%20fine-tuning%20%C2%B7%20GPU%20ops" alt="typing" />
 
 <br>
 
