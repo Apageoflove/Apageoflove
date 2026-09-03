@@ -2,8 +2,8 @@
 <rect width="820" height="280" fill="#FFFFFF" rx="8"/>
 <text x="36" y="18" fill="#24292F" font-size="13" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Contributions</text>
 <text x="784" y="18" text-anchor="end" fill="#57606A" font-size="11" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Aug 04 - Sep 03, 2026</text>
-<rect x="36" y="22" width="130" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="48" y="40" fill="#57606A" font-size="10.5" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Total</text><text x="154" y="40" text-anchor="end" fill="#24292F" font-size="11.5" font-weight="700" font-family="ui-monospace,monospace">163</text>
-<rect x="180" y="22" width="130" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="192" y="40" fill="#57606A" font-size="10.5" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Daily avg</text><text x="298" y="40" text-anchor="end" fill="#24292F" font-size="11.5" font-weight="700" font-family="ui-monospace,monospace">5.4</text>
+<rect x="36" y="22" width="130" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="48" y="40" fill="#57606A" font-size="10.5" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Total</text><text x="154" y="40" text-anchor="end" fill="#24292F" font-size="11.5" font-weight="700" font-family="ui-monospace,monospace">164</text>
+<rect x="180" y="22" width="130" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="192" y="40" fill="#57606A" font-size="10.5" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Daily avg</text><text x="298" y="40" text-anchor="end" fill="#24292F" font-size="11.5" font-weight="700" font-family="ui-monospace,monospace">5.5</text>
 <rect x="324" y="22" width="130" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="336" y="40" fill="#57606A" font-size="10.5" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Best day</text><text x="442" y="40" text-anchor="end" fill="#24292F" font-size="11.5" font-weight="700" font-family="ui-monospace,monospace">54</text>
 <rect x="468" y="22" width="130" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="480" y="40" fill="#57606A" font-size="10.5" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Active days</text><text x="586" y="40" text-anchor="end" fill="#24292F" font-size="11.5" font-weight="700" font-family="ui-monospace,monospace">19/30</text>
 <line x1="36" y1="197.5" x2="784" y2="197.5" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="157.0" x2="784" y2="157.0" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="116.5" x2="784" y2="116.5" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="76.0" x2="784" y2="76.0" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/>
@@ -81,7 +81,7 @@
 <path d="M740.4,233.0 L752.8,233.0 L752.8,238.0 L740.4,238.0 Z" fill="#2188FF"/>
 <path d="M752.8,233.0 L761.8,226.0 L761.8,231.0 L752.8,238.0 Z" fill="#58A6FF"/>
 <path d="M740.4,233.0 L749.4,226.0 L761.8,226.0 L752.8,233.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
-<path d="M765.3,223.0 L777.8,223.0 L777.8,238.0 L765.3,238.0 Z" fill="#2188FF"/>
-<path d="M777.8,223.0 L786.8,216.0 L786.8,231.0 L777.8,238.0 Z" fill="#58A6FF"/>
-<path d="M765.3,223.0 L774.3,216.0 L786.8,216.0 L777.8,223.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M765.3,220.0 L777.8,220.0 L777.8,238.0 L765.3,238.0 Z" fill="#2188FF"/>
+<path d="M777.8,220.0 L786.8,213.0 L786.8,231.0 L777.8,238.0 Z" fill="#58A6FF"/>
+<path d="M765.3,220.0 L774.3,213.0 L786.8,213.0 L777.8,220.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
 </svg>
