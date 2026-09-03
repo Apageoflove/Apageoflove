@@ -146,13 +146,11 @@ def main():
         "".join(grid),
         "".join(shadow),
         ground,
-        "
-".join(bars),
+        chr(10).join(bars),
         '</svg>'
     ]
 
-    final = "
-".join(svg_parts)
+    final = chr(10).join(svg_parts)
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, "w") as f:
         f.write(final)
