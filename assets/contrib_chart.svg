@@ -1,58 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="240" viewBox="0 0 820 240">
-<rect width="820" height="240" fill="#FFFFFF" rx="8"/>
-<defs><defs>
-    <linearGradient id="barGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#58A6FF"/>
-      <stop offset="100%" stop-color="#0969DA"/>
-    </linearGradient>
-    <linearGradient id="barGradIdle" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#E1E4E8"/>
-      <stop offset="100%" stop-color="#D0D7DE"/>
-    </linearGradient>
-  </defs></defs>
-<line x1="36" y1="170.5" x2="792" y2="170.5" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="139.0" x2="792" y2="139.0" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="107.5" x2="792" y2="107.5" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="76.0" x2="792" y2="76.0" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/>
-<text x="36" y="64" fill="#24292F" font-size="13" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Contributions</text>
-<text x="792" y="64" text-anchor="end" fill="#57606A" font-size="10" font-family="-apple-system,sans-serif">Aug 03 - Sep 02, 2026</text>
-<rect x="36" y="14" width="120" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="46" y="32" fill="#57606A" font-size="10" font-family="-apple-system,sans-serif">Total</text><text x="146" y="32" text-anchor="end" fill="#24292F" font-size="11" font-weight="600" font-family="ui-monospace,monospace">158</text>
-<rect x="168" y="14" width="120" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="178" y="32" fill="#57606A" font-size="10" font-family="-apple-system,sans-serif">Daily avg</text><text x="278" y="32" text-anchor="end" fill="#24292F" font-size="11" font-weight="600" font-family="ui-monospace,monospace">5.3</text>
-<rect x="300" y="14" width="120" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="310" y="32" fill="#57606A" font-size="10" font-family="-apple-system,sans-serif">Best day</text><text x="410" y="32" text-anchor="end" fill="#24292F" font-size="11" font-weight="600" font-family="ui-monospace,monospace">54</text>
-<rect x="432" y="14" width="120" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="442" y="32" fill="#57606A" font-size="10" font-family="-apple-system,sans-serif">Active days</text><text x="542" y="32" text-anchor="end" fill="#24292F" font-size="11" font-weight="600" font-family="ui-monospace,monospace">18/30</text>
-<line x1="36" y1="202" x2="792" y2="202" stroke="#30363D" stroke-width="1"/>
-<rect x="40.8" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
-<text x="48.6" y="228" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-04</text>
-<rect x="66.0" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
-<rect x="91.2" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
-<rect x="116.4" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
-<rect x="141.6" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
-<rect x="166.8" y="76.0" width="15.6" height="126.0" rx="3" fill="url(#barGrad)"/>
-<text x="174.6" y="70.0" text-anchor="middle" fill="#79C0FF" font-size="9.5" font-weight="500" font-family="ui-monospace,monospace">54</text>
-<text x="174.6" y="228" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-09</text>
-<rect x="192.0" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
-<rect x="217.2" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
-<rect x="242.4" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
-<rect x="267.6" y="185.7" width="15.6" height="16.3" rx="3" fill="url(#barGrad)"/>
-<rect x="292.8" y="192.7" width="15.6" height="9.3" rx="3" fill="url(#barGrad)"/>
-<text x="300.6" y="228" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-14</text>
-<rect x="318.0" y="157.7" width="15.6" height="44.3" rx="3" fill="url(#barGrad)"/>
-<rect x="343.2" y="174.0" width="15.6" height="28.0" rx="3" fill="url(#barGrad)"/>
-<rect x="368.4" y="192.7" width="15.6" height="9.3" rx="3" fill="url(#barGrad)"/>
-<rect x="393.6" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
-<rect x="418.8" y="185.7" width="15.6" height="16.3" rx="3" fill="url(#barGrad)"/>
-<text x="426.6" y="228" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-19</text>
-<rect x="444.0" y="198.0" width="15.6" height="4.0" rx="3" fill="url(#barGrad)"/>
-<rect x="469.2" y="176.3" width="15.6" height="25.7" rx="3" fill="url(#barGrad)"/>
-<rect x="494.4" y="183.3" width="15.6" height="18.7" rx="3" fill="url(#barGrad)"/>
-<rect x="519.6" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
-<rect x="544.8" y="198.0" width="15.6" height="4.0" rx="3" fill="url(#barGrad)"/>
-<text x="552.6" y="228" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-24</text>
-<rect x="570.0" y="198.0" width="15.6" height="4.0" rx="3" fill="url(#barGrad)"/>
-<rect x="595.2" y="198.0" width="15.6" height="4.0" rx="3" fill="url(#barGrad)"/>
-<rect x="620.4" y="195.0" width="15.6" height="7.0" rx="3" fill="url(#barGrad)"/>
-<rect x="645.6" y="160.0" width="15.6" height="42.0" rx="3" fill="url(#barGrad)"/>
-<rect x="670.8" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
-<text x="678.6" y="228" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-29</text>
-<rect x="696.0" y="200.0" width="15.6" height="2" rx="1" fill="#D0D7DE"/>
-<rect x="721.2" y="198.0" width="15.6" height="4.0" rx="3" fill="url(#barGrad)"/>
-<rect x="746.4" y="190.3" width="15.6" height="11.7" rx="3" fill="url(#barGrad)"/>
-<rect x="771.6" y="198.0" width="15.6" height="4.0" rx="3" fill="url(#barGrad)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="280" viewBox="0 0 820 280">
+<rect width="820" height="280" fill="#FFFFFF" rx="8"/>
+<text x="36" y="18" fill="#24292F" font-size="13" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Contributions</text>
+<text x="784" y="18" text-anchor="end" fill="#57606A" font-size="11" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Aug 04 - Sep 03, 2026</text>
+<rect x="36" y="22" width="130" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="48" y="40" fill="#57606A" font-size="10.5" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Total</text><text x="154" y="40" text-anchor="end" fill="#24292F" font-size="11.5" font-weight="700" font-family="ui-monospace,monospace">163</text>
+<rect x="180" y="22" width="130" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="192" y="40" fill="#57606A" font-size="10.5" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Daily avg</text><text x="298" y="40" text-anchor="end" fill="#24292F" font-size="11.5" font-weight="700" font-family="ui-monospace,monospace">5.4</text>
+<rect x="324" y="22" width="130" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="336" y="40" fill="#57606A" font-size="10.5" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Best day</text><text x="442" y="40" text-anchor="end" fill="#24292F" font-size="11.5" font-weight="700" font-family="ui-monospace,monospace">54</text>
+<rect x="468" y="22" width="130" height="28" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/><text x="480" y="40" fill="#57606A" font-size="10.5" font-family="-apple-system,BlinkMacSystemFont,sans-serif">Active days</text><text x="586" y="40" text-anchor="end" fill="#24292F" font-size="11.5" font-weight="700" font-family="ui-monospace,monospace">19/30</text>
+<line x1="36" y1="197.5" x2="784" y2="197.5" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="157.0" x2="784" y2="157.0" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="116.5" x2="784" y2="116.5" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/><line x1="36" y1="76.0" x2="784" y2="76.0" stroke="#E1E4E8" stroke-width="0.5" stroke-dasharray="3,3"/>
+<path d="M142.0,240.0 L154.4,240.0 L163.4,233.0 L151.0,233.0 Z" fill="#000000" opacity="0.04"/><path d="M241.7,240.0 L254.2,240.0 L263.2,233.0 L250.7,233.0 Z" fill="#000000" opacity="0.04"/><path d="M266.6,240.0 L279.1,240.0 L288.1,233.0 L275.6,233.0 Z" fill="#000000" opacity="0.04"/><path d="M291.6,240.0 L304.0,240.0 L313.0,233.0 L300.6,233.0 Z" fill="#000000" opacity="0.04"/><path d="M316.5,240.0 L329.0,240.0 L338.0,233.0 L325.5,233.0 Z" fill="#000000" opacity="0.04"/><path d="M341.4,240.0 L353.9,240.0 L362.9,233.0 L350.4,233.0 Z" fill="#000000" opacity="0.04"/><path d="M391.3,240.0 L403.8,240.0 L412.8,233.0 L400.3,233.0 Z" fill="#000000" opacity="0.04"/><path d="M416.2,240.0 L428.7,240.0 L437.7,233.0 L425.2,233.0 Z" fill="#000000" opacity="0.04"/><path d="M441.2,240.0 L453.6,240.0 L462.6,233.0 L450.2,233.0 Z" fill="#000000" opacity="0.04"/><path d="M466.1,240.0 L478.6,240.0 L487.6,233.0 L475.1,233.0 Z" fill="#000000" opacity="0.04"/><path d="M516.0,240.0 L528.4,240.0 L537.4,233.0 L525.0,233.0 Z" fill="#000000" opacity="0.04"/><path d="M540.9,240.0 L553.4,240.0 L562.4,233.0 L549.9,233.0 Z" fill="#000000" opacity="0.04"/><path d="M565.8,240.0 L578.3,240.0 L587.3,233.0 L574.8,233.0 Z" fill="#000000" opacity="0.04"/><path d="M590.8,240.0 L603.2,240.0 L612.2,233.0 L599.8,233.0 Z" fill="#000000" opacity="0.04"/><path d="M615.7,240.0 L628.2,240.0 L637.2,233.0 L624.7,233.0 Z" fill="#000000" opacity="0.04"/><path d="M690.5,240.0 L703.0,240.0 L712.0,233.0 L699.5,233.0 Z" fill="#000000" opacity="0.04"/><path d="M715.4,240.0 L727.9,240.0 L736.9,233.0 L724.4,233.0 Z" fill="#000000" opacity="0.04"/><path d="M740.4,240.0 L752.8,240.0 L761.8,233.0 L749.4,233.0 Z" fill="#000000" opacity="0.04"/><path d="M765.3,240.0 L777.8,240.0 L786.8,233.0 L774.3,233.0 Z" fill="#000000" opacity="0.04"/>
+<line x1="36" y1="238.0" x2="784" y2="238.0" stroke="#D0D7DE" stroke-width="1"/>
+<path d="M42.2,238.0 L51.2,231.0 L63.7,231.0 L54.7,238.0 Z" fill="#D8DEE4" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="53.0" y="245" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-05</text>
+<path d="M67.2,238.0 L76.2,231.0 L88.6,231.0 L79.6,238.0 Z" fill="#D8DEE4" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M92.1,238.0 L101.1,231.0 L113.6,231.0 L104.6,238.0 Z" fill="#D8DEE4" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M117.0,238.0 L126.0,231.0 L138.5,231.0 L129.5,238.0 Z" fill="#D8DEE4" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M142.0,76.0 L154.4,76.0 L154.4,238.0 L142.0,238.0 Z" fill="#0969DA"/>
+<path d="M154.4,76.0 L163.4,69.0 L163.4,231.0 L154.4,238.0 Z" fill="#2188FF"/>
+<path d="M142.0,76.0 L151.0,69.0 L163.4,69.0 L154.4,76.0 Z" fill="#A5D6FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="152.7" y="65.0" text-anchor="middle" fill="#0969DA" font-size="9.5" font-weight="600" font-family="ui-monospace,monospace">54</text>
+<path d="M166.9,238.0 L175.9,231.0 L188.4,231.0 L179.4,238.0 Z" fill="#D8DEE4" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="177.6" y="245" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-10</text>
+<path d="M191.8,238.0 L200.8,231.0 L213.3,231.0 L204.3,238.0 Z" fill="#D8DEE4" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M216.8,238.0 L225.8,231.0 L238.2,231.0 L229.2,238.0 Z" fill="#D8DEE4" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M241.7,217.0 L254.2,217.0 L254.2,238.0 L241.7,238.0 Z" fill="#2188FF"/>
+<path d="M254.2,217.0 L263.2,210.0 L263.2,231.0 L254.2,238.0 Z" fill="#58A6FF"/>
+<path d="M241.7,217.0 L250.7,210.0 L263.2,210.0 L254.2,217.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M266.6,226.0 L279.1,226.0 L279.1,238.0 L266.6,238.0 Z" fill="#2188FF"/>
+<path d="M279.1,226.0 L288.1,219.0 L288.1,231.0 L279.1,238.0 Z" fill="#58A6FF"/>
+<path d="M266.6,226.0 L275.6,219.0 L288.1,219.0 L279.1,226.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M291.6,181.0 L304.0,181.0 L304.0,238.0 L291.6,238.0 Z" fill="#2188FF"/>
+<path d="M304.0,181.0 L313.0,174.0 L313.0,231.0 L304.0,238.0 Z" fill="#58A6FF"/>
+<path d="M291.6,181.0 L300.6,174.0 L313.0,174.0 L304.0,181.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="302.3" y="245" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-15</text>
+<path d="M316.5,202.0 L329.0,202.0 L329.0,238.0 L316.5,238.0 Z" fill="#2188FF"/>
+<path d="M329.0,202.0 L338.0,195.0 L338.0,231.0 L329.0,238.0 Z" fill="#58A6FF"/>
+<path d="M316.5,202.0 L325.5,195.0 L338.0,195.0 L329.0,202.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M341.4,226.0 L353.9,226.0 L353.9,238.0 L341.4,238.0 Z" fill="#2188FF"/>
+<path d="M353.9,226.0 L362.9,219.0 L362.9,231.0 L353.9,238.0 Z" fill="#58A6FF"/>
+<path d="M341.4,226.0 L350.4,219.0 L362.9,219.0 L353.9,226.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M366.4,238.0 L375.4,231.0 L387.8,231.0 L378.8,238.0 Z" fill="#D8DEE4" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M391.3,217.0 L403.8,217.0 L403.8,238.0 L391.3,238.0 Z" fill="#2188FF"/>
+<path d="M403.8,217.0 L412.8,210.0 L412.8,231.0 L403.8,238.0 Z" fill="#58A6FF"/>
+<path d="M391.3,217.0 L400.3,210.0 L412.8,210.0 L403.8,217.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M416.2,233.0 L428.7,233.0 L428.7,238.0 L416.2,238.0 Z" fill="#2188FF"/>
+<path d="M428.7,233.0 L437.7,226.0 L437.7,231.0 L428.7,238.0 Z" fill="#58A6FF"/>
+<path d="M416.2,233.0 L425.2,226.0 L437.7,226.0 L428.7,233.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="427.0" y="245" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-20</text>
+<path d="M441.2,205.0 L453.6,205.0 L453.6,238.0 L441.2,238.0 Z" fill="#2188FF"/>
+<path d="M453.6,205.0 L462.6,198.0 L462.6,231.0 L453.6,238.0 Z" fill="#58A6FF"/>
+<path d="M441.2,205.0 L450.2,198.0 L462.6,198.0 L453.6,205.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M466.1,214.0 L478.6,214.0 L478.6,238.0 L466.1,238.0 Z" fill="#2188FF"/>
+<path d="M478.6,214.0 L487.6,207.0 L487.6,231.0 L478.6,238.0 Z" fill="#58A6FF"/>
+<path d="M466.1,214.0 L475.1,207.0 L487.6,207.0 L478.6,214.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M491.0,238.0 L500.0,231.0 L512.5,231.0 L503.5,238.0 Z" fill="#D8DEE4" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M516.0,233.0 L528.4,233.0 L528.4,238.0 L516.0,238.0 Z" fill="#2188FF"/>
+<path d="M528.4,233.0 L537.4,226.0 L537.4,231.0 L528.4,238.0 Z" fill="#58A6FF"/>
+<path d="M516.0,233.0 L525.0,226.0 L537.4,226.0 L528.4,233.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M540.9,233.0 L553.4,233.0 L553.4,238.0 L540.9,238.0 Z" fill="#2188FF"/>
+<path d="M553.4,233.0 L562.4,226.0 L562.4,231.0 L553.4,238.0 Z" fill="#58A6FF"/>
+<path d="M540.9,233.0 L549.9,226.0 L562.4,226.0 L553.4,233.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="551.6" y="245" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-25</text>
+<path d="M565.8,233.0 L578.3,233.0 L578.3,238.0 L565.8,238.0 Z" fill="#2188FF"/>
+<path d="M578.3,233.0 L587.3,226.0 L587.3,231.0 L578.3,238.0 Z" fill="#58A6FF"/>
+<path d="M565.8,233.0 L574.8,226.0 L587.3,226.0 L578.3,233.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M590.8,229.0 L603.2,229.0 L603.2,238.0 L590.8,238.0 Z" fill="#2188FF"/>
+<path d="M603.2,229.0 L612.2,222.0 L612.2,231.0 L603.2,238.0 Z" fill="#58A6FF"/>
+<path d="M590.8,229.0 L599.8,222.0 L612.2,222.0 L603.2,229.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M615.7,184.0 L628.2,184.0 L628.2,238.0 L615.7,238.0 Z" fill="#2188FF"/>
+<path d="M628.2,184.0 L637.2,177.0 L637.2,231.0 L628.2,238.0 Z" fill="#58A6FF"/>
+<path d="M615.7,184.0 L624.7,177.0 L637.2,177.0 L628.2,184.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M640.6,238.0 L649.6,231.0 L662.1,231.0 L653.1,238.0 Z" fill="#D8DEE4" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M665.6,238.0 L674.6,231.0 L687.0,231.0 L678.0,238.0 Z" fill="#D8DEE4" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="676.3" y="245" text-anchor="middle" fill="#57606A" font-size="9" font-family="ui-monospace,monospace">08-30</text>
+<path d="M690.5,233.0 L703.0,233.0 L703.0,238.0 L690.5,238.0 Z" fill="#2188FF"/>
+<path d="M703.0,233.0 L712.0,226.0 L712.0,231.0 L703.0,238.0 Z" fill="#58A6FF"/>
+<path d="M690.5,233.0 L699.5,226.0 L712.0,226.0 L703.0,233.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M715.4,223.0 L727.9,223.0 L727.9,238.0 L715.4,238.0 Z" fill="#2188FF"/>
+<path d="M727.9,223.0 L736.9,216.0 L736.9,231.0 L727.9,238.0 Z" fill="#58A6FF"/>
+<path d="M715.4,223.0 L724.4,216.0 L736.9,216.0 L727.9,223.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M740.4,233.0 L752.8,233.0 L752.8,238.0 L740.4,238.0 Z" fill="#2188FF"/>
+<path d="M752.8,233.0 L761.8,226.0 L761.8,231.0 L752.8,238.0 Z" fill="#58A6FF"/>
+<path d="M740.4,233.0 L749.4,226.0 L761.8,226.0 L752.8,233.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
+<path d="M765.3,223.0 L777.8,223.0 L777.8,238.0 L765.3,238.0 Z" fill="#2188FF"/>
+<path d="M777.8,223.0 L786.8,216.0 L786.8,231.0 L777.8,238.0 Z" fill="#58A6FF"/>
+<path d="M765.3,223.0 L774.3,216.0 L786.8,216.0 L777.8,223.0 Z" fill="#B6E3FF" stroke="#FFFFFF" stroke-width="0.5"/>
 </svg>
