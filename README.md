@@ -6,8 +6,6 @@
 
 <br>
 
-`Python` · `C++` · `TypeScript` · `PyTorch` · `Docker`
-
 </div>
 
 <table>
@@ -22,6 +20,5 @@
 </table>
 
 <div align="center">
-
 
 </div>
